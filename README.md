@@ -6,11 +6,6 @@ This project merges the physical world with digital art, combining the power of 
 
   ![Circuit Diagram](circuitdiagram.png)
 
-# Output Video:
-
-[Watch the Output Video](demo.mp4)
-
-
 ## Features
 
 - **Arduino Integration**: The project uses an Arduino board to capture real-time input from two potentiometers and a button. The potentiometers adjust the sizes of the circles, while the button toggles between two modes:
